@@ -19,6 +19,14 @@ A Python-based terminal game simulating the classic “Snake, Water, Gun” logi
 - Input Handling & Validation
 - Game Logic Implementation
 
+# Skills Used
+- Python procedural programming
+- Dictionary usage for mapping
+- Conditional logic & game rule implementation
+- Random number generation
+- Input validation & handling
+- Problem-solving & algorithmic thinking
+
 # How to Run
 1. Make sure Python is installed.
 2. Run the file using: `python snake_water_gun.py`
